@@ -28,7 +28,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guumarques&layout=compact)
 
 ### **Works**
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=guumarques&show_icons=true&theme=dark#gh-dark-mode-only)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=guumarques&show_icons=true&theme=omni#gh-dark-mode-only)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
