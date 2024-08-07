@@ -20,7 +20,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guumarques&layout=compact)
 
 ### **Works**
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=guumarques&show_icons=true&theme=dark#gh-dark-mode-only)]
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=guumarques&show_icons=true&theme=dark#gh-dark-mode-only)
 
 ### Thank you for visiting my profile!! 😄
 ![Thumbs Up GIF](https://steamuserimages-a.akamaihd.net/ugc/957479782095197136/332154CBEF8C96F09F8E645F07E2A5FF6557D7DD/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
