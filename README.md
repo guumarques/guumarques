@@ -25,7 +25,7 @@
 
 ### **Here are the most used languages on projects that I've been working on**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guumarques&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guumarques&layout=compact)a
 
 ### **💼  Works**
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=guumarques&show_icons=true&theme=omni#gh-dark-mode-only)
