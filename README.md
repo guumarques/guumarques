@@ -6,7 +6,7 @@
   </a>
 </div>
 
-### **Hello there! My name is Gustavo. I am currently majoring in Software Engineering at Inatel.** 💻
+### **Hello there! My name is Gustavo. I am currently majoring in Software Engineering.** 💻
 
 ### 📚 **About me**
 `I love programming and it feels so good enjoying the process of creating and solving problems.`
