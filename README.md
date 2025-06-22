@@ -40,6 +40,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guumarques/guumarques/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Thank+you+for+visiting+my+profile+%F0%9F%98%84" alt="Typing SVG">
