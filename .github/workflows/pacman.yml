@@ -1,0 +1,19 @@
+name: Update Pac-Man Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Executa diariamente à meia-noite
+  workflow_dispatch:      # Permite executar manualmente
+  push:
+    branches: [ "main" ]  # Executa quando você fizer push
+
+jobs:
+  generate-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate Pac-Man Graph
+        uses: guumarques/github-activity-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
