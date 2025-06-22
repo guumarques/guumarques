@@ -11,6 +11,8 @@
 ### 📚 **About me**
 `I love programming and it feels so good enjoying the process of creating and solving problems.`
 
+#
+
 ### 🔨 **Skills**
 
 > ### Back-end
@@ -27,12 +29,18 @@
 > ### Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_guumarques_/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100091092337100&mibextid=ZbWKwL) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ayanokojis23) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-marques-399277252/) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22sdy45oecbrli5grgvchj54y?si=7889da571cda47e2) 
 
+#
+
 ### **Here are the most used languages on projects that I've been working on:**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guumarques&layout=compact)
 
+#
+
 ### **💼  Works**
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=guumarques&show_icons=true&theme=omni#gh-dark-mode-only)
+
+#
 
 
 <picture>
@@ -42,10 +50,5 @@
 </picture>
 
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Thank+you+for+visiting+my+profile+%F0%9F%98%84" alt="Typing SVG">
-  </a>
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/957479782095197136/332154CBEF8C96F09F8E645F07E2A5FF6557D7DD/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Thumbs Up GIF">
-</div>
+
 
