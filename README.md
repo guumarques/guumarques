@@ -35,6 +35,8 @@
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=guumarques&show_icons=true&theme=omni#gh-dark-mode-only)
 
 
+<img src="https://raw.githubusercontent.com/guumarques/guumarques/output/snake.svg" alt="Snake animation" />
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
