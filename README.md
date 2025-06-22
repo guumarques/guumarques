@@ -40,3 +40,12 @@
   </a>
   <img src="https://steamuserimages-a.akamaihd.net/ugc/957479782095197136/332154CBEF8C96F09F8E645F07E2A5FF6557D7DD/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Thumbs Up GIF">
 </div>
+
+
+
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
