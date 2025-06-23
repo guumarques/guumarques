@@ -51,7 +51,7 @@
 
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/240329_Kim_Chae-won_%281%29.jpg/250px-240329_Kim_Chae-won_%281%29.jpg" alt="Thumbs Up GIF">
+  <img src="https://imgur.com/rYeWoGE" alt="Thumbs Up GIF">
 </div>
 
 
