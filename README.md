@@ -50,9 +50,6 @@
 </picture>
 
 
-<div align="center">
-  <img src="https://imgur.com/rYeWoGE.jpg" alt="Thumbs Up GIF">
-</div>
 
 
 
