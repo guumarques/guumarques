@@ -49,5 +49,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guumarques/guumarques/output/pacman-contribution-graph.svg">
 </picture>
 
+<p align = "left">
+    <img src = "https://github-readme-stats.vercel.app/api?username=guumarques&show_icons=true&theme=tokyonight" alt = "status github">
+</p>
+
 
 
