@@ -50,10 +50,10 @@
 </picture>
 
 
-
 <div align="center">
-  <img src="https://imgur.com/a/H0Dzq5q" alt="Descrição da imagem">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/957479782095197136/332154CBEF8C96F09F8E645F07E2A5FF6557D7DD/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Thumbs Up GIF">
 </div>
+
 
 
 
