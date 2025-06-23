@@ -52,7 +52,7 @@
 
 
 <div align="center">
-  <img src="https://imgur.com/a/H0Dzq5q">
+  <img src="https://imgur.com/a/H0Dzq5q" alt="Descrição da imagem">
 </div>
 
 
