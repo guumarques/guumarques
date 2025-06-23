@@ -51,7 +51,7 @@
 
 
 <div align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/957479782095197136/332154CBEF8C96F09F8E645F07E2A5FF6557D7DD/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Thumbs Up GIF">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/240329_Kim_Chae-won_%281%29.jpg/250px-240329_Kim_Chae-won_%281%29.jpg" alt="Thumbs Up GIF">
 </div>
 
 
